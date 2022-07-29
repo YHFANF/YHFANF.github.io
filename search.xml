@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇博客</title>
+    <url>/2022/07/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>1.测试目的<br>TSB40-RC传感器，芯片由SP400-11-01替代成SP400-11-11，功能测试<br>2.测试对象<br>调制方式：FSK<br>波特率: 9600Bits/s<br>工作频率：433.92MHz<br>编码方式：标准曼彻斯特编码<br>量程：压力0<del>800kPa，温度-40℃</del>125℃<br>传感器ID码：88 88 88 01 (HEX)、88 88 88 02(HEX)、88 88 88 03(HEX)<br>测试样本来源（手工样、SMT、试生产）：手工样（3个）<br>测试样品保存部门：测试部<br>测试样品软件版本：TSB40P_XL_V1.00B00.hex<br>测试样品硬件版本：TSB40-JH_HARDWARE_A1 BOM，传感器芯片由SP400-11-01 替代成SP400-11-11<br>3.测试设备及工具<br>测试工具：压力触发治具、加速度旋转试验机、模式转换LF触发工具、信号接收器、串口调试软件、热风枪、直流电源、示波器、电烙铁、秒表、频谱分析仪、离心机。<br>4.测试标准<br>测试标准：TSB40_XL胎压传感器技术规范20200326</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/07/29/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -16,12 +22,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/2022/07/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>1.测试目的<br>TSB40-RC传感器，芯片由SP400-11-01替代成SP400-11-11，功能测试<br>2.测试对象<br>调制方式：FSK<br>波特率: 9600Bits/s<br>工作频率：433.92MHz<br>编码方式：标准曼彻斯特编码<br>量程：压力0<del>800kPa，温度-40℃</del>125℃<br>传感器ID码：88 88 88 01 (HEX)、88 88 88 02(HEX)、88 88 88 03(HEX)<br>测试样本来源（手工样、SMT、试生产）：手工样（3个）<br>测试样品保存部门：测试部<br>测试样品软件版本：TSB40P_XL_V1.00B00.hex<br>测试样品硬件版本：TSB40-JH_HARDWARE_A1 BOM，传感器芯片由SP400-11-01 替代成SP400-11-11<br>3.测试设备及工具<br>测试工具：压力触发治具、加速度旋转试验机、模式转换LF触发工具、信号接收器、串口调试软件、热风枪、直流电源、示波器、电烙铁、秒表、频谱分析仪、离心机。<br>4.测试标准<br>测试标准：TSB40_XL胎压传感器技术规范20200326</p>
 ]]></content>
   </entry>
 </search>
